@@ -14,7 +14,9 @@ After diagnosis, users can:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yomna22-ym/SkinallyAi/master/Assets/skinally7.jpg" alt="Design 7" width="230"/>
+  
   <img src="https://raw.githubusercontent.com/yomna22-ym/SkinallyAi/master/Assets/skinally8.jpg" alt="Design 8" width="230"/>
+  
   <img src="https://raw.githubusercontent.com/yomna22-ym/SkinallyAi/master/Assets/skinally20.jpg" alt="Design 20" width="230"/>
 </p>
 
@@ -49,8 +51,8 @@ After diagnosis, users can:
 
 ## 🛠️ Tech Stack
 
-`Flutter` • `TFLite` • `FastAPI` • `SQLite` • `MySQL` • `GitHub Actions` • `CI/CD` • `GitHub Pages`
-`3D Objects` • `Meta` • `Proftilo` • `YAML` • `Firebase` • `Provider` • `Clean Architecture`
+`Flutter`  • `FastAPI` • `GitHub Actions` • `CI/CD` • `GitHub Pages`
+`LottieFiles` • `YAML` • `Firebase` • `Provider` • `Clean Architecture` • `MVVM`
 
 ---
 
