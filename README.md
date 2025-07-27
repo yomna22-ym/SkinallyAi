@@ -10,6 +10,17 @@ After diagnosis, users can:
 
 ---
 
+## 🖼️ Cover Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yomna22-ym/SkinallyAi/master/Assets/Thumbnail.png" alt="Skinally AI Cover" width="600"/>
+</p>
+
+🎥 **Watch Demo Video:**  
+👉 [Click here to view on Google Drive](https://drive.google.com/file/d/13-PKXMS2vhSBQYYg6XXAlQ9JtkwgGV3r/view?usp=drive_link)
+
+---
+
 ## 🎨 Design Preview
 
 <p align="center">
@@ -51,7 +62,7 @@ After diagnosis, users can:
 
 ## 🛠️ Tech Stack
 
-`Flutter`  • `FastAPI` • `GitHub Actions` • `CI/CD` • `GitHub Pages`
+`Flutter`  • `FastAPI` • `GitHub Actions` • `CI/CD` • `GitHub Pages`  
 `LottieFiles` • `YAML` • `Firebase` • `Provider` • `Clean Architecture` • `MVVM`
 
 ---
